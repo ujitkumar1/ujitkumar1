@@ -16,4 +16,4 @@ I'm a passionate 💻 data science student at IIT Madras, leveraging my 🎓 edu
 
 ## 🎓 Education
 
-Bachelor of Science in Data Science and Applications: 🎓 (IIT Madras) Dec. 2020 – Dec. 2024
+Bachelor of Science in Data Science and Applications, 🎓 (IIT Madras) Dec. 2020 – Dec. 2024
