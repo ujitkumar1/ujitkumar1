@@ -5,10 +5,10 @@ I'm a passionate 💻 data science student at IIT Madras, leveraging my 🎓 edu
 
 ## 🌟 Skills
 
-Programming: 🔍 Python, 🅒 C, 🐍 Java
-Database: 💾 MySql
-Data Science: 📊 NumPy, 📈 Matplotlib, 🐼 Pandas
-Frameworks: 🌐 Flask, 🕷️ Scrapy
-IDE: 💻 VS Code, 🐍 PyCharm
-OS: 🖥️ Windows, 🐧 Ubuntu
-Deployment: 🐳 Docker
+- Programming: 🔍 Python, 🅒 C, 🐍 Java
+- Database: 💾 MySql
+- Data Science: 📊 NumPy, 📈 Matplotlib, 🐼 Pandas
+- Frameworks: 🌐 Flask, 🕷️ Scrapy
+- IDE: 💻 VS Code, 🐍 PyCharm
+- OS: 🖥️ Windows, 🐧 Ubuntu
+- Deployment: 🐳 Docker
