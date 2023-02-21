@@ -12,3 +12,8 @@ I'm a passionate 💻 data science student at IIT Madras, leveraging my 🎓 edu
 - IDE: 💻 VS Code, 🐍 PyCharm
 - OS: 🖥️ Windows, 🐧 Ubuntu
 - Deployment: 🐳 Docker
+
+
+## 🎓 Education
+
+Bachelor of Science in Data Science and Applications: 🎓 IIT Madras, Dec. 2020 – Dec. 2024
