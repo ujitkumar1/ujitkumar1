@@ -6,9 +6,9 @@ I'm a passionate 💻 data science student at IIT Madras, leveraging my 🎓 edu
 
 Bachelor of Science in Data Science and Applications, 🎓 (IIT Madras) Dec. 2020 – Dec. 2024
 
-## 💼 Experience 🚀
+## 💼 Experience 
 
-**Software Engineer Intern** 🛠️
+**Software Engineer Intern** 🛠️ at Vaultedge ⌛ Jun 2023 - Present
 - 📊 Engineered Python app with a RESTful API, applying SOLID principles.
 - 📈 Enhanced data handling efficiency through advanced schema design and database query algorithms.
 - 🏗️ Managed Agile project tasks and workflows, integrating robust principles and Agile methodologies.
