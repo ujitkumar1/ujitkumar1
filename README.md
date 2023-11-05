@@ -8,17 +8,14 @@ Bachelor of Science in Data Science and Applications, 🎓 **(IIT Madras)** Dec.
 
 ## 💼 Experience 
 
-**Software Engineer Intern** 🛠️ at **Vaultedge** ⌛ Jun 2023 - Present
-- 📊 Engineered Python app with a RESTful API, applying SOLID principles.
-- 📈 Enhanced data handling efficiency through advanced schema design and database query algorithms.
-- 🏗️ Managed Agile project tasks and workflows, integrating robust principles and Agile methodologies.
-- 🎯 Achieved successful outcomes with Jira for project management.
+1. **Data Analyst Intern** 📊 at **LoopAI** ⌛ Oct 2023 - Present
+2. **Software Engineer Intern** 🛠️ at **Vaultedge** ⌛ Jun 2023 - Sep 2023
 
 ## 🌟 Skills
 
 - Programming: 🐍 Python, ☕ Java
 - Database: 💾 MySql, 📊 No-SQL
-- Data Science: 📊 NumPy, 📈 Matplotlib, 🐼 Pandas
+- Data Science: 📊 NumPy, 📈 Matplotlib, 🐼 Pandas, 📊 Data Studio, 📊 Big Query
 - Machine Learning: 🤖 scikit-learn, 🔍 Tensorflow
 - Frameworks: 🌐 Flask, 🕷️ Scrapy, 🌐 Selenium, 🌼 Celery
 - IDE: 💻 VS Code, 🐍 PyCharm
