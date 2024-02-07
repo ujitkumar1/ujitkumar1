@@ -2,10 +2,6 @@
 
 Leveraging my 🎓 education and continual 📚 learning to solve complex 📊 data problems and gain valuable 🔍 insights.
 
-## 🎓 Education
-
-Bachelor of Science in Data Science and Applications, 🎓 **(IIT Madras)** Dec. 2020 – Dec. 2024
-
 ## 💼 Experience 
 
 1. **Data Analyst Intern** 📊 at **LoopAI** ⌛ Oct 2023 - Present
