@@ -4,7 +4,7 @@ Leveraging my 🎓 education and continual 📚 learning to solve complex 📊 d
 
 ## 💼 Experience 
 
-1. **Data Analyst Intern** 📊 at **LoopAI** ⌛ Oct 2023 - Present
+1. **Data Analyst** 📊 at **LoopAI** ⌛ Oct 2023 - Present
 2. **Software Engineer Intern** 🛠️ at **Vaultedge** ⌛ Jun 2023 - Sep 2023
 
 ## 🌟 Skills
